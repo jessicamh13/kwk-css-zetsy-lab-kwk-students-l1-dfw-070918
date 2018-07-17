@@ -2,6 +2,19 @@
 
 /* link the web font used for the level 1 heading here */
 
+h1 {
+  font-family: "Baskerville";
+  color: #98ADA6;
+}
+
+h2 {
+  color: #6F7F7A;
+}
+
+p {
+  color: #555555;
+}
+
 /*////////// Global Styles //////////*/
 
 body {
